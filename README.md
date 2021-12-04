@@ -7,7 +7,7 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 
 ## Icones
-:pachage: Nova funcionalidade
+:pachage:Nova funcionalidade
 :up:atualização
-:beatle:correção de bugs
-:checkered:release
+:customs:correção de bugs
+:tophat:release
